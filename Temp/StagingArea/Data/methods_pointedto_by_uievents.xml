@@ -1,0 +1,15 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="startgame">
+			<method name="SceneChange"/>
+		</type>
+		<type fullname="Helpscene">
+			<method name="SceneChange"/>
+		</type>
+		<type fullname="backtomain">
+			<method name="SceneChange"/>
+			<method name="SceneChange"/>
+			<method name="SceneChange"/>
+		</type>
+	</assembly>
+</linker>
